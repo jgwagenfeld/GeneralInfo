@@ -21,3 +21,10 @@ Graphics
 ----------------
 https://inkscape.org/
 https://www.gimp.org/
+
+
+CSP-related
+----------------
+System Advisor Model  https://sam.nrel.gov/
+SolarTherm-ModelicaLibrary  
+Raytracing   https://www.nrel.gov/csp/soltrace.html
