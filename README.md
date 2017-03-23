@@ -29,3 +29,10 @@ CSP-related
 * SolarTherm-ModelicaLibrary  
 * Raytracing   https://www.nrel.gov/csp/soltrace.html
 * Raytracing https://github.com/iat-cener/tonatiuh
+
+
+Energy-related Links 
+----------------
+
+*https://yearbook.enerdata.net/world-electricity-production-map-graph-and-data.html#world-electricity-production-map-graph-and-data.html
+*https://www.eia.gov/electricity/monthly/epm_table_grapher.cfm?t=epmt_6_07_b
