@@ -39,3 +39,9 @@ Energy-related Links
 
 * http://energyatlas.iea.org/#!/tellmap/1378539487
 * http://globalsolaratlas.info/
+
+
+others
+-----------------------
+
+* https://earth.nullschool.net
