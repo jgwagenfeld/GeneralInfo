@@ -46,3 +46,5 @@ others
 -----------------------
 
 * https://earth.nullschool.net
+
+* https://resourcetrade.earth/
