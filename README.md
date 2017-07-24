@@ -21,7 +21,7 @@ Graphics
 ----------------
 * https://inkscape.org/
 * https://www.gimp.org/
-
+*http://www.yworks.com/products/yed
 
 CSP-related
 ----------------
