@@ -42,6 +42,7 @@ Energy-related Links
 
 * http://asiapacificenergy.org/#main/lang/en/graph/0/type/0/sort/0/time/[1990,2013]/indicator/[3686:3691]/geo/[RUS]/legend/1/inspect/0
 
+* https://irena.masdar.ac.ae/
 others
 -----------------------
 
