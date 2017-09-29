@@ -9,6 +9,7 @@ Electronics
 OpenSCADA-PLC
 ---------------
 * http://www.openplcproject.com/
+* https://www.eclipse.org/eclipsescada/
 
 Python
 ----------------
