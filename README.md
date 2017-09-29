@@ -20,9 +20,9 @@ Python
 
 Graphics
 ----------------
-* https://inkscape.org/
-* https://www.gimp.org/
-*http://www.yworks.com/products/yed
+* https://inkscape.org/     Vectorgraphics
+* https://www.gimp.org/     Photoshop Replacement
+* http://www.yworks.com/products/yed   Flow Diagrams
 
 CSP-related
 ----------------
