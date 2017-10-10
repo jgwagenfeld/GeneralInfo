@@ -30,7 +30,7 @@ CSP-related
 * SolarTherm-ModelicaLibrary  
 * Raytracing   https://www.nrel.gov/csp/soltrace.html
 * Raytracing https://github.com/iat-cener/tonatiuh
-
+* LCOE-data CSP plants https://csp.guru/wiki/Full_table
 
 Energy-related Links 
 ----------------
