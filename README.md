@@ -45,6 +45,9 @@ Energy-related Links
 
 * https://irena.masdar.ac.ae/
 others
+
+* http://resourceirena.irena.org/gateway/dashboard/?topic=4&subTopic=16
+
 -----------------------
 
 * https://earth.nullschool.net
