@@ -35,6 +35,7 @@ CSP-related
 Energy-related Links 
 ----------------
 
+* https://www.electricitymap.org/?lang=en&wind=true&solar=false&page=map
 * https://yearbook.enerdata.net/electricity/electricity-domestic-consumption-data.html
 * https://www.eia.gov/electricity/monthly/epm_table_grapher.cfm?t=epmt_6_07_b
 
