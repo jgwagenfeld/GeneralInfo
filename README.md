@@ -22,7 +22,7 @@ Graphics
 ----------------
 * https://inkscape.org/     Vectorgraphics
 * https://www.gimp.org/     Photoshop Replacement
-* http://www.yworks.com/products/yed   Flow Diagrams
+* http://www.yworks.com/products/yed, https://www.draw.io/, https://www.lucidchart.com   Flow Diagrams
 
 CSP-related
 ----------------
