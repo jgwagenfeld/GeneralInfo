@@ -31,6 +31,7 @@ CSP-related
 * Raytracing   https://www.nrel.gov/csp/soltrace.html
 * Raytracing https://github.com/iat-cener/tonatiuh
 * LCOE-data CSP plants https://csp.guru/wiki/Full_table
+* Cost data applicatio https://openei.org/apps/TCDB/#blank
 
 Energy-related Links 
 ----------------
