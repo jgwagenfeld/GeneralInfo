@@ -4,6 +4,7 @@
 Electronics
 --------------------
 * http://kicad-pcb.org/
+* https://qelectrotech.org/gallery/
 
 
 OpenSCADA-PLC
