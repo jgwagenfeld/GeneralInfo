@@ -56,3 +56,15 @@ others
 * https://earth.nullschool.net
 
 * https://resourcetrade.earth/
+
+
+Data Sources:
+----------------
+
+* https://open-power-system-data.org
+
+* https://www.entsoe.eu/data/map/
+
+* https://transparency.entsoe.eu
+
+* www.elexon.co.uk
