@@ -34,6 +34,10 @@ CSP-related
 * LCOE-data CSP plants https://csp.guru/wiki/Full_table
 * Cost data applicatio https://openei.org/apps/TCDB/#blank
 
+CO2-emissions
+----------------
+* Life Cycle Emissions  https://sesame.mit.edu/
+
 Energy-related Links 
 ----------------
 
