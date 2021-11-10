@@ -3,7 +3,7 @@
 
 Electronics
 --------------------
-* http://kicad-pcb.org/
+* http://kicad.org/
 * https://qelectrotech.org/gallery/
 
 
